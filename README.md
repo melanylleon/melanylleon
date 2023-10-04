@@ -10,7 +10,7 @@ I am a recent graduate from a coding bootcamp with a passion for software develo
 * 🌍  I'm based in Framingham, MA, USA
 * 👀  I’m interested in learning Javascript and Python
 * 🌱  I’m currently learning more about Java and Spring Boot
-* 📫  Reach me at [melanylandaverde1@gmail.com](mailto:melanylandaverde1@gmail.com)
+* 📫  How to reach me [melanylandaverde1@gmail.com](mailto:melanylandaverde1@gmail.com)
 * ⚡  Fun Fact: I love to travel!
 
 ### Skills
@@ -30,5 +30,3 @@ I am a recent graduate from a coding bootcamp with a passion for software develo
   <a href="https://www.linkedin.com/in/melany-landaverde-leon/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
 
-### Github Contributions
-![Snake animation](https://github.com/melanylleon/melanylleon/blob/output/github-contribution-grid-snake.svg)
